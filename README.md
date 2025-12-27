@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Financy<br>👯 I’m looking to collaborate on Open Source<br>🤝 I’m looking for help with Job referals<br>🌱 I’m currently learning DSA and AI<br>💬 Ask me about Full stack development<br>⚡ Fun fact i am a techie
+🔭 I’m currently working on Financy<br>👯 I’m looking to collaborate on Open Source<br>🤝 I’m looking for help with Job Referals<br>🌱 I’m currently learning DSA and AI<br>💬 Ask me about Full stack development<br>⚡ Fun fact i am a techie
 
 
 ## 🌐 Socials:
